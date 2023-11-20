@@ -2,7 +2,7 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 ===============================================================================================================================
 
 * 🌍 UK Based
-* 📚Current Y13 Student, studying Maths, Chemistry & Computer Science
+* 📚Current university student at City, University of London studying computer science
 
 ### Skills
 
@@ -16,6 +16,6 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 ### Socials
 <p align="left">
-<a href="https://discord.com/users/573578183438499880" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<!-- <a href="https://discord.com/users/573578183438499880" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> -->
 <a href="https://github.com/AndyL0555" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
